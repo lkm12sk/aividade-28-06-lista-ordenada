@@ -7,14 +7,31 @@
 
         <ing src = "estrela.png"
         <title> Lorena Kelczeski Macari </title>
+
+<style>
+    mark{background-color💙}
+</style>
     </head>
     <body>
-        <h1>Quem eu sou</h1>
-        <p1> Meu nome é Lorena, eu tenho dezesseis anos, tenho 1,60 de altura, tenho cabelos e olhos castanho escuro, e sou do segundo ano B.
+        <h1>Atividade 28/06</h1>
 
-        <br>
-            Eu sou uma pessoa <strong>sincera, responsável e curiosa.</strong> Gosto muito de cozinhar, desenhar, programar, dançar, cantar. Confesso que sempre fui uma pessoa um pouco perfeccionista, mas sempre cumpro com as minhas obrigações e gosto de fazer tudo bem feito :)
-            <br>
+    Data de hoje: <STRONG> 28 de Junho de 2023</STRONG>
+    Disciplina <mark> Programação/matemática II </mark>
+<abbr title = " hipertext language"> LKM </abbr>
+
+
+<oL>
+    <Li> Segunda-feira </Li>
+<oL type = "a">
+<Li> </Li> 
+</oL>
+    <Li> Terça-feira</Li>
+<oL type = "b">
+<Li>
+    
+</Li>
+
+    
             😀️😀️😀️
         </p1>
 
