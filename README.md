@@ -5,7 +5,7 @@
      <meta charset = "UTF-8">
         <meta name = "VIEWPORT" content = "width = device-width, initial-scale = 1.0">
 
-        <ing src = "estrela.png"
+        <ing src = "estrela.png">
         <title> Lorena Kelczeski Macari </title>
 
 <style>
@@ -28,7 +28,6 @@
     <Li> Terça-feira</Li>
 <oL type = "b">
 <Li>
-    
 </Li>
 
     
